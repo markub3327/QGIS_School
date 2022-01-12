@@ -1,1 +1,1 @@
-# School
+# QGIS School
